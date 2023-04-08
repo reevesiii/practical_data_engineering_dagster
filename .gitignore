@@ -2,6 +2,7 @@
 !.dagster/dagster.yaml
 .github
 .venv
+.idea
 
 pde_dagster.egg-info
 
