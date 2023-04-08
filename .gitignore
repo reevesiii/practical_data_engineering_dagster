@@ -1,5 +1,8 @@
-.dagster
+.dagster/*
+!.dagster/dagster.yaml
 .github
 .venv
 
 pde_dagster.egg-info
+
+notes.txt
